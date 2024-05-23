@@ -5,7 +5,6 @@ This project contains a script for approximating the value of Pi using a Monte C
 ## Files
 
 - `monte_carlo_pi_approximation.py`: The main script to run the Monte Carlo Pi approximation simulation.
-- `Sample_Results.docx`: A document containing sample results from the simulation.
 
 ## Description
 
